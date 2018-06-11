@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<configuration>
+    <items>
+        <item sn="1">            
+            <caption>Matrix Computations</caption>
+            <path>matrixcomputations</path>
+            <teacherAccount>admin</teacherAccount>
+			<downloads>
+                <item description="Chapter_01" planfile="" pptfile="Chapter_01.pptx" title="第1章" videofile="" xh="1"/>
+				<item description="Chapter_02" planfile="" pptfile="Chapter_02.pptx" title="第2章" videofile="" xh="2"/>
+				<item description="Chapter_03" planfile="" pptfile="Chapter_03.pptx" title="第3章" videofile="" xh="3"/>
+				<item description="Chapter_04" planfile="" pptfile="Chapter_04.pptx" title="第4章" videofile="" xh="4"/>
+    			<item description="Chapter_05" planfile="" pptfile="Chapter_05.pptx" title="第5章" videofile="" xh="5"/>
+				<item description="Chapter_06" planfile="" pptfile="Chapter_06.pptx" title="第6章" videofile="" xh="6"/>
+				<item description="Chapter_07" planfile="" pptfile="Chapter_07.pptx" title="第7章" videofile="" xh="7"/>
+				<item description="Chapter_08" planfile="" pptfile="Chapter_08.pptx" title="第8章" videofile="" xh="8"/>
+				<item description="Chapter_09" planfile="" pptfile="Chapter_09.pptx" title="第9章" videofile="" xh="9"/>
+				<item description="Chapter_10" planfile="" pptfile="Chapter_10.pptx" title="第10章" videofile="" xh="10"/>
+				<item description="Chapter_11" planfile="" pptfile="Chapter_11.pptx" title="第11章" videofile="" xh="11"/>
+				<item description="Chapter_12" planfile="" pptfile="Chapter_12.pptx" title="第12章" videofile="" xh="12"/>
+				<item description="Chapter_13" planfile="" pptfile="Chapter_13.pptx" title="第13章" videofile="" xh="13"/>
+				<item description="Chapter_14" planfile="" pptfile="Chapter_14.pptx" title="第14章" videofile="" xh="14"/>
+				<item description="Chapter_15" planfile="" pptfile="Chapter_15.pptx" title="第15章" videofile="" xh="15"/>
+				<item description="Chapter_16" planfile="" pptfile="Chapter_16.pptx" title="第16章" videofile="" xh="16"/>
+				<item description="Chapter_17" planfile="" pptfile="Chapter_17.pptx" title="第17章" videofile="" xh="17"/>
+				<item description="Chapter_18" planfile="" pptfile="Chapter_18.pptx" title="第18章" videofile="" xh="18"/>
+				<item description="Chapter_19" planfile="" pptfile="Chapter_19.pptx" title="第19章" videofile="" xh="19"/>
+				<item description="Chapter_20" planfile="" pptfile="Chapter_20.pptx" title="第20章" videofile="" xh="20"/>
+				<item description="Chapter_21" planfile="" pptfile="Chapter_21.pptx" title="第21章" videofile="" xh="21"/>
+				<item description="Chapter_22" planfile="" pptfile="Chapter_22.pptx" title="第22章" videofile="" xh="22"/>
+				<item description="Chapter_23" planfile="" pptfile="Chapter_23.pptx" title="第23章" videofile="" xh="23"/>
+				<item description="AppendixA" planfile="" pptfile="AppendixA.pptx" title="附录A" videofile="" xh="24"/>
+				<item description="AppendixB" planfile="" pptfile="AppendixB.pptx" title="附录B" videofile="" xh="25"/>
+				<item description="AppendixC" planfile="" pptfile="AppendixC.pptx" title="附录C" videofile="" xh="26"/>
+            </downloads>
+        </item>
+		<item sn="2">            
+            <caption>DATA Analysis</caption>
+            <path>dataanalysis</path>
+            <teacherAccount>admin</teacherAccount>
+			<downloads>
+                <item description="Chapter_01" planfile="" pptfile="1.doc" title="第1章" videofile="" xh="1"/>
+				<item description="Chapter_02" planfile="" pptfile="2.pdf" title="第2章" videofile="" xh="2"/>
+				<item description="Chapter_03" planfile="" pptfile="3.pdf" title="第3章" videofile="" xh="3"/>
+				<item description="Chapter_04" planfile="" pptfile="4.pdf" title="第4章" videofile="" xh="4"/>
+    			<item description="Chapter_05" planfile="" pptfile="5.pdf" title="第5章" videofile="" xh="5"/>
+				<item description="Chapter_06" planfile="" pptfile="6.pdf" title="第6章" videofile="" xh="6"/>
+				<item description="Chapter_07" planfile="" pptfile="7.pdf" title="第7章" videofile="" xh="7"/>
+				<item description="Chapter_08" planfile="" pptfile="8.pdf" title="第8章" videofile="" xh="8"/>
+				<item description="Chapter_09" planfile="" pptfile="9.pdf" title="第9章" videofile="" xh="9"/>
+				<item description="Chapter_10" planfile="" pptfile="10.pdf" title="第10章" videofile="" xh="10"/>				
+            </downloads>
+        </item>
+		<item sn="3">            
+            <caption>Linear algebra</caption>
+            <path>linearalgebra</path>
+            <teacherAccount>admin</teacherAccount>
+			<downloads>
+                <item description="Matrices and Systems of Equations" planfile="" pptfile="LinearA1.pdf" title="第1章" videofile="" xh="1"/>
+				<item description="Determinants" planfile="" pptfile="LinearA2.pdf" title="第2章" videofile="" xh="2"/>
+				<item description="Vector Spaces" planfile="" pptfile="LinearA3.pdf" title="第3章" videofile="" xh="3"/>
+				<item description="Linear Transformations" planfile="" pptfile="LinearA4.pdf" title="第4章" videofile="" xh="4"/>			
+            </downloads>
+        </item>
+		
+		<item sn="5">            
+            <caption>Numerical PDE</caption>
+            <path>numericalpde</path>
+            <teacherAccount>admin</teacherAccount>
+			<downloads>
+                <item description="Overview of PDEs" planfile="" pptfile="1.pdf" title="第1章" videofile="" xh="1"/>
+				<item description="Explicit methods for 1-D heat" planfile="" pptfile="2.pdf" title="第2章" videofile="" xh="2"/>
+				<item description="Implicit methods for 1-D heat" planfile="" pptfile="3.pdf" title="第3章" videofile="" xh="3"/>
+				<item description="Jacobi method" planfile="" pptfile="4.pdf" title="第4章" videofile="" xh="4"/>	
+				<item description="2-D Finite Difference" planfile="" pptfile="5.pdf" title="第5章" videofile="" xh="5"/>
+				<item description="Analytical solutions to 1-DWave equation" planfile="" pptfile="6.pdf" title="第6章" videofile="" xh="6"/>
+				<item description="Flux conservative problems" planfile="" pptfile="7.pdf" title="第7章" videofile="" xh="7"/>
+				<item description="Numerical Solution of 1-D and 2-D Wave Equation" planfile="" pptfile="8.pdf" title="第8章" videofile="" xh="8"/>	
+				<item description="Finite element method" planfile="" pptfile="9.pdf" title="第9章" videofile="" xh="9"/>
+				<item description="Example" planfile="" pptfile="10.pdf" title="第10章" videofile="" xh="10"/>
+				<item description="Example" planfile="" pptfile="11.pdf" title="第11章" videofile="" xh="11"/>
+				<item description="Example" planfile="" pptfile="12.pdf" title="第12章" videofile="" xh="12"/>	
+            </downloads>
+        </item>
+		<item sn="6">            
+            <caption>Probability Theory</caption>
+            <path>probabilitytheory</path>
+            <teacherAccount>admin</teacherAccount>
+			<downloads>
+                <item xh="1" title="第2章(1-2)" pptfile="ch2_12.pdf"  planfile="" videofile="" description="Chapter 02"/>
+				<item xh="2" title="第2章(3-4)" pptfile="ch2_34.pdf"  planfile="" videofile="" description="Chapter 02"/>
+				<item xh="3" title="第2章(5-8)" pptfile="ch2_5678.pdf"  planfile="" videofile="" description="Chapter 02"/>
+				<item xh="4" title="第3章(1-3)" pptfile="ch3_123.pdf"  planfile="" videofile="" description="Chapter 03"/>
+				<item xh="5" title="第3章(4)" pptfile="ch3_4.pdf"  planfile="" videofile="" description="Chapter 03"/>
+				<item xh="6" title="第4章(1)" pptfile="ch4_1.pdf"  planfile="" videofile="" description="Chapter 04"/>
+				<item xh="7" title="第4章(2-3)" pptfile="ch4_23.pdf"  planfile="" videofile="" description="Chapter 04"/>
+				<item xh="8" title="第4章(4)" pptfile="ch4_4.pdf"  planfile="" videofile="" description="Chapter 04"/>
+				<item xh="9" title="第5章" pptfile="ch5.pdf"  planfile="" videofile="" description="Chapter 05"/>
+				<item xh="10" title="第6章(1-2)" pptfile="ch6_12.pdf"  planfile="" videofile="" description="Chapter 06"/>
+				<item xh="11" title="第6章(3)" pptfile="ch6_3.pdf"  planfile="" videofile="" description="Chapter 06"/>
+				<item xh="12" title="第6章(4)" pptfile="ch6_4.pdf"  planfile="" videofile="" description="Chapter 06"/>
+				<item xh="13" title="第6章(567)" pptfile="ch6_567.pdf"  planfile="" videofile="" description="Chapter 06"/>
+				<item xh="14" title="第7章" pptfile="ch7.pdf"  planfile="" videofile="" description="Chapter 07"/>
+            </downloads>
+        </item>       
+    </items>
+</configuration>
